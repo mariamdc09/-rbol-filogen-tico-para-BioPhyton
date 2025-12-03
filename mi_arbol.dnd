@@ -8,7 +8,7 @@
  (Neofelinos,
    (
      (Panthera_uncia,Panthera_tigris),
-     (Panthera_pardus,(Panthera_leo,Panthera_onca))
+     (Panthera_pardus,(Panthera_leo,Panthera_onca)
    )"Grandes_gatos"
  )"Panteras_y_neofelinos"
 );
