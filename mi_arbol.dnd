@@ -1,1 +1,13 @@
-((Lynx_lynx,(Felis_catus,(Puma_concolor,Acinonyx_jubatus))"Felinos-Acinonychinae")"Felinos-Linces",(Neofelinos,((Panthera_uncia,Panthera_tigris),Panthera_pardus,(Panthera_leo,Panthera_onca))"Grandes-Gatos")"Panteras-Neofelinos");
+((Lynx_lynx,
+  (Felis_catus,
+    (Puma_concolor,Acinonyx_jubatus)
+  )"Felinos_y_Acinonychinae"
+ )"Felinos_y_Linces",
+ (Neofelinos,
+   ((Panthera_uncia,Panthera_tigris),
+    Panthera_pardus,
+    (Panthera_leo,Panthera_onca)
+   )"Grandes_gatos"
+ )"Panteras_y_neofelinos"
+);
+
