@@ -1,1 +1,2 @@
-((felinos_y_linces(Lynx_lynx,felinos_y_Acinonychinae(Felis_catus,(Puma_concolor,Aninonyx_jubatus)),Panteras_y_neofelinos(neofelinos, grandes_gatos((Panthera_uncia,Panthera_tigris),Panthera_pardus,(Panthera_leo, Panthera_onca))))));
+((Lynx_lynx,(Felis_catus,(Puma_concolor,Acinonyx_jubatus))felinos_y_Acinonychinae)felinos_y_linces,(neofelinos,((Panthera_uncia,Panthera_tigris),Panthera_pardus,(Panthera_leo,Panthera_onca))grandes_gatos)Panteras_y_neofelinos);
+
